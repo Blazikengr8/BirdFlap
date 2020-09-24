@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "487903018086",
+    "firebase_url": "https://flappybird-91779.firebaseio.com",
+    "project_id": "flappybird-91779",
+    "storage_bucket": "flappybird-91779.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487903018086:android:fcfbca50602507b36b41a7",
+        "android_client_info": {
+          "package_name": "com.example.birdflap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487903018086-0sefe8le725pm0dv8eha782bqqnqcbdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6ugSbYOB8RkHB7giCcolo1wjKDYCq87M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487903018086-0sefe8le725pm0dv8eha782bqqnqcbdv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
