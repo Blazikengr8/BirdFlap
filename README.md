@@ -14,12 +14,15 @@ This is the official submission of Suvodeep Sinha for the Silly Hacks project. T
 - Flutter : for making the entire application
 - Dart dev tools and packages
 - Tools from Github Developer Pack
+- Firebase Firestore
 
-**Project Maintainer**:
+**Project Maintainer(s)**:
 
 <p align="left">
 <img width=20% src="https://avatars1.githubusercontent.com/u/52796258">&ensp;&ensp;&ensp;
+<img width=20% src="https://avatars0.githubusercontent.com/u/60261112?s=400&u=2162485400ab03771599d1b60f78fc8ec87bba92&v=4">
 
 </p>
 <a href="https://github.com/Suvoo">
-<h4 align="left"><b>Suvodeep Sinha</b></a>
+<h4 align="left"><b>Suvodeep Sinha</b></a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<a href="https://github.com/Blazikengr8"><b>Abhigyan Singh</b></h4></a>
